@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+
+.navbar-nav > li > a{
+    padding: 15px;
+}
+
+.nav-header {
+    font-family: 'Lobster', cursive;
+
+}
+
+.fast img {
+    height: 350px;
+    width: auto;
+    box-shadow: 0 15px 15px 0 gray
+
+}
+
+h4 {
+    box-sizing: border-box;
+    margin: 20px 0 10px;
+    font-family: 'Anton', sans-serif;
+    
+}
+
+.row img {
+    height: 200px;
+    width: auto;
+    box-shadow: 0 15px 15px 0 gray;
+    margin: 10px;
+    padding-top: 10px;
+}
+
+.dec img {
+    height: 350px;
+    width: auto;
+    box-shadow: 0 15px 15px 0 gray;
+    margin: 10px;
+    padding-top: 10px;
+}
+
+.aug img {
+    height: 220px;
+    width: auto;
+    box-shadow: 0 15px 15px 0 gray;
+    margin: 10px;
+    padding-top: 10px;
+}
